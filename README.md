@@ -1,4 +1,4 @@
 # Wonseok Jang 
-wave Creating a memorable user experience.
+💻 Interested in Developing Smart Healthcare Systems
 
 
