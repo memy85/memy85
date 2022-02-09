@@ -6,4 +6,4 @@ Recipe
 <img src="http://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
 \
 
-email : memy85@naver.com
+Currently on candidacy of Masters of Science program in Biomedical Systems Informatics in Yonsei University.
