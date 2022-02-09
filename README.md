@@ -1,5 +1,5 @@
 # Wonseok Jang 
-💻 Interested in Developing Smart Healthcare Systems
+💻 Interested in developing Smart Healthcare Systems
 
 Recipe
 \
