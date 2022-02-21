@@ -1,4 +1,4 @@
-# Wonseok Jang 
+# Won Seok Jang 
 💻 Interested in developing Smart Healthcare Systems
 
 Recipe
