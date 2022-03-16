@@ -7,4 +7,5 @@ Recipe
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 
 
-Currently on candidacy of Masters of Science program in Biomedical Systems Informatics in Yonsei University.
+I am a master's student in the department of Biomedical Systems Informatics in College of Medicine, Yonsei University.\
+You can contact me via E-mail.
