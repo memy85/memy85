@@ -1,5 +1,5 @@
-# Won Seok Jang 
-💻 Interested in developing Smart Healthcare Systems
+# Nathan (Won Seok) Jang 
+💻 Interested in improving healthcare using AI technology
 
 Recipe
 \
