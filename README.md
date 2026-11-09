@@ -1,4 +1,4 @@
-# Nathan (Won Seok) Jang
+# Won Seok Jang
 💻 PhD student in Computer Science at the University of Massachusetts Lowell, working on natural language processing for medicine.
 
 ## About
